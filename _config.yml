@@ -1,12 +1,13 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "TimcoSteve's Purchase List"
 favicon: assets/img/favicon.png
-description: A custom version of Toolkit's item list to support all the latest features of Utils.
+description: "TimcoSteve's Rimworld Purchase List for use with Twitch Tool Kit"
+
 
 baseurl: '/itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ''
-github_username: 'sirrandoo'
+twitter_username: 'TimcoSteve'
+github_username: 'TimcoSteve'
 
 # Item list settings
 #
@@ -28,7 +29,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: false
+    usage: true
     mod: true
   kinds:
     mod: true
